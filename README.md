@@ -25,8 +25,3 @@ These source maps are meant to stay internal but in this case, one was accidenta
 
 Apologies for the limited README at the moment.
 I’ll be updating it soon with more complete information about on the structure files.
-
-# NOTICE
-
-This repository does not hold a copy of the proprietary Claude Code typescript source code.
-This is a clean Rust reimplementation of Claude Code's behavior.
