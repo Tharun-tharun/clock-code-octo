@@ -1,3 +1,9 @@
+> **Disclaimer: This repository is NOT officially published, endorsed, or maintained by Anthropic.**
+>
+> The source code in this repository was obtained from **publicly available online sources** — specifically, a 57MB source map file (`cli.js.map`) shipped inside the `@anthropic-ai/claude-code` npm package (v2.1.88). No proprietary systems were breached.
+>
+> **All intellectual property rights belong to Anthropic.** This repository is provided solely for **educational and research purposes** — to study the architecture and implementation patterns of a production AI coding agent. Use it at your own risk. The maintainers of this repository claim no ownership over the code and assume no liability for its use.
+
 ## Explore
 
 This project was developed collaboratively, resulting in a Rust implementation designed to faithfully reproduce the intended behavior.
